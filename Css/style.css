@@ -53,6 +53,10 @@
             height: 30px;
         }
 
+        #checkbox-menu {
+            display: none;
+        }
+
         /*Main*/
 
         main {
